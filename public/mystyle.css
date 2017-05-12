@@ -22,9 +22,10 @@ table th,
 table td {
   padding: .625em;
   text-align: left;
-  border: 1px solid #ddd;
+  border: 1px solid gray;
 }
 table th {
+  background-color: #ddd;
   font-size: .85em;
   letter-spacing: .1em;
   text-transform: uppercase;

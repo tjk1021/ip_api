@@ -60,5 +60,5 @@ app.get('/api/v1/:id/:profilesId', function(req, res) {
 // END OF API ROUTES -----------------------------------------------------------
 
 app.listen(3000, function() {
-    console.log('Example app listening on port 3000!');
+    console.log('IP API listening on 3000!');
 });
